@@ -1,25 +1,13 @@
-import { Component, OnInit } from '@angular/core';
-import { Job, Tag, Resume } from './interfaces';
-import { UtilService } from './services/util.service';
+import { Component } from '@angular/core';
 @Component({
   selector: 'app-root',
   templateUrl: './app.component.html',
   styleUrls: ['./app.component.scss'],
-  providers: [UtilService]
+  providers: []
 })
-export class AppComponent implements OnInit {
-  title = 'tagsApp';
+export class AppComponent {
 
-  employmentHistory: Job[];
-
-  constructor(public utilService: UtilService) {
-    console.log(this.utilService.generateUUID());
-
-
-  }
-
-  ngOnInit() {
-
+  constructor() {
   }
 
 

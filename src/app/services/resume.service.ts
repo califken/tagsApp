@@ -9,7 +9,7 @@ import { pluck } from 'rxjs/operators';
 })
 export class ResumeService {
 
-  jobsDataURL = 'assets/jobs.json';
+  jobsDataURL = 'assets/data/jobs.json';
 
   constructor(private http: HttpClient) { }
 

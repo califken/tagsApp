@@ -22,7 +22,7 @@ export class ResumeComponent implements OnInit {
     this.jobs = this.resumeService.getJobs();
     this.skills = this.resumeService.getSection('skills');
 this.portfolio =   this.resumeService.getSection('portfolio');
- console.log(this.jobs);
+
     // console.log(this.resume.subscribe(d => {
     //   // console.log(d);
     //   this.jobs = d;
