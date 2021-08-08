@@ -1,0 +1,28 @@
+<div id="resume" class="container-fluid">
+  <div>
+    <div class="card">
+      <div class="card-body">
+        <div class="list-group-flush heroes">
+          <div *ngFor="let job of jobs | async" class="job list-group-item">
+            <div class="inner">
+              <span class="badge">{{ job.id }}</span>
+              <span><app-job [job]="job"></app-job></span>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <h3>Portfolio</h3>
+    <div class="card">
+      <div class="card-body">
+        <div class="list-group-flush heroes">
+          <div *ngFor="let project of portfolio | async" class="job list-group-item">
+
+            <app-project [project]="project"></app-project>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
