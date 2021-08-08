@@ -1,0 +1,16 @@
+{{ ResumeJobs | json }}
+<div class="card" style="background-color:#FFF;">
+  
+<div class="card-body">
+<div class="list-group-flush heroes">
+  <div *ngFor="let job of jobs" class="job list-group-item">
+    <div class="inner">
+      <span class="badge">{{ job.id }}</span>
+      {{ job | json }}
+      <span><app-job [job]="job"></app-job></span>
+
+
+    </div>
+  </div>
+</div></div>
+</div>

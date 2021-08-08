@@ -1,0 +1,153 @@
+{
+    "jobs": [
+        {
+            "key": "j1",
+            "position": "Instructor",
+            "company": "University of Arizona",
+            "location": "Chandler, AZ",
+            "description": "Instructor at the University of Arizona for the full-time Full Stack Web Development bootcamp, teaching JavaScript, Node.js, Express, Firebase, MySQL, jQuery, React.js, HTML5, CSS3, Bootstrap, Sequelize, Mongo, Git, and the Command Line.",
+            "year": "2018",
+            "tags": [
+                "JavaScript",
+                "Bootstrap",
+                "CSS3",
+                "Express",
+                "Firebase",
+                "Git",
+                "HTML5",
+                "jQuery",
+                "Mongo",
+                "MySQL",
+                "Node.js",
+                "React.js",
+                "Sequelize"
+            ]
+        },
+        {
+            "key": "azdr",
+            "position": "Drupal Developer",
+            "company": "State of Arizona",
+            "location": "Phoenix, AZ",
+            "description": "Contributed to the development of the Department of Economic Security Intranet.  Incorporated an existing local development instance of Drupal to work with the State’s custom upstream Drupal distribution on the Pantheon platform.  Integrated a vendor-supplied Material Design library into a custom theme. Developed a prototype document library with ability to search through document content using Apache Solr.  Managed relationships between Drupal Entities to facilitate building more performant views by design.  Used benchmarking tools for Drupal and MySQL.  Monitored caching, performance metrics and logs on development, staging and production.",
+            "year": "2017",
+            "tags": [
+                "Drupal",
+                "Bootstrap",
+                "CSS3",
+                "JavaScript",
+                "MySQL",
+                "Material Design",
+                "Apache",
+                "Solr",
+                "Pantheon"
+            ]
+        },
+        {
+            "key": "asudr",
+            "position": "Drupal Developer",
+            "company": "Arizona State University",
+            "location": "Phoenix, AZ",
+            "description": "Worked with the College of Liberal Arts & Sciences to design content, taxonomy, panels and menu structures for sites upgrading from Drupal 6 to 7. Emphasis on accessibility, compliance with web standards, and branding consistency through the incorporation of existing ASU marketing assets and design standards, as inferred from existing properties and in-house style guides.",
+            "year": "2016",
+            "tags": [
+                "Drupal",
+                "taxonomy",
+                "panels",
+                "menu",
+                "upgrading"
+            ]
+        },
+        {
+            "key": "xfcdev",
+            "position": "Web Developer",
+            "company": "XFC, Inc.",
+            "location": "Phoenix, AZ",
+            "description": "Built paid subscription video sites, incorporating object-oriented PHP, HTML templates and responsive CSS to replace a large base of intermixed HTML, CSS, PHP and MySQL rcode. Contributed new features, including user generated tags, and a timeline-based comments and ratings system.",
+            "year": "2014",
+            "tags": [
+                "PHP",
+                "MySQL",
+                "Tags",
+                "Subscription",
+                "Video"
+            ]
+        },
+        {
+            "key": "cybdev",
+            "position": "Drupal Developer",
+            "company": "CyberMark International",
+            "location": "Phoenix, AZ",
+            "description": "Designed software to assist in the management of search engine optimization strategies, tracking specific actions taken during optimization, and finally correlating variance in search result metrics back to those actions.  <small>For example, May 1st, Rachel linked to a featured article from the homepage.  On May 15th, featured article traffic is up 200%. </small> <br><br>Incorporated new designs and marketing techniques to facilitate conversions. Worked with platforms including Drupal, WordPress and Infusionsoft.",
+            "year": "2012",
+            "tags": [
+                "Drupal",
+                "WordPress",
+                "SEO",
+                "Analytics",
+                "Social Media"
+            ]
+        },
+        {
+            "key": "ucladc",
+            "position": "Drupal Consultant",
+            "company": "UCLA",
+            "location": "Los Angeles, CA",
+            "description": "Provided IT and development support for several departments at the School of Public Health. Consulted on web development for the School of Public Health’s website.",
+            "year": "2011",
+            "tags": [
+                "Drupal"
+            ]
+        },
+        {
+            "key": "achint",
+            "position": "Drupal Developer",
+            "company": "Achieve Internet",
+            "location": "San Diego, CA",
+            "description": "Developed Drupal sites for high-profile media clients, including Best Buy, Lifetime Television for Women, Fast Company and the Inc500.  Wrote code for custom modules, templates and SQL queries.",
+            "year": "2007",
+            "tags": [
+                "Drupal"
+            ]
+        }
+    ],
+    "skills": [
+        "HTML5",
+        "CSS3",
+        "JavaScript",
+        "Drupal",
+        "WordPress",
+        "Node.js",
+        "React.js",
+        "jQuery",
+        "MySQL",
+        "MS SQL",
+        "Firebase",
+        "Mongo",
+        "Sequelize",
+        "Access Databases",
+        "PHP",
+        "ASP",
+        "Apache",
+        "Express",
+        "Windows",
+        "Linux Server Administration",
+        "SEO",
+        "Social Media",
+        "Content",
+        "Analytics & Metrics",
+        "Git",
+        "SVN",
+        "CVS",
+        "Visual Studio",
+        "Zend",
+        "Eclipse",
+        "PhpStorm",
+        "Adobe Suite",
+        "Photoshop",
+        "Flash Media Server",
+        "After Effects",
+        "Final Cut Pro Logic",
+        "Live",
+        "FL Studio"
+    ]
+}
